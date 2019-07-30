@@ -1,0 +1,4 @@
+#Tue Jul 30 19:04:52 EDT 2019
+base.0=D\:\\git\\state_mgmt_provider\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
